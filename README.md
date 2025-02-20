@@ -44,7 +44,7 @@
 
 ### 🌐 Connect with Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shrihari-deshmukh-45051b31a)
-- 📸 [Instagram - Men's Fashion & Grooming](#)
+- 📸 [Instagram - shri.hari04](#)
 - 🏢 [GitHub](https://github.com/04shrihari)
 
 ---
@@ -80,7 +80,7 @@
 ---
 
 ### 📫 How to Reach Me:
-- ✉️ Email: [YourEmail@example.com](mailto:YourEmail@example.com)
+- ✉️ Email: [02shrihari@gmail.com](mailto:YourEmail@example.com)
 - 💼 LinkedIn: [Shrihari Deshmukh](https://www.linkedin.com/in/shrihari-deshmukh-45051b31a)
 - 🏢 GitHub: [04shrihari](https://github.com/04shrihari)
 
