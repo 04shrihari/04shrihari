@@ -1,6 +1,6 @@
 # 💫 Hi there! I'm **Shrihari Deshmukh** 👋
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h3 align="center">🚀 MCA Student | AI & ML Enthusiast | Frontend Developer | Future IT Pro 🚩</h3>
 
@@ -71,10 +71,6 @@
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=04shrihari&show_icons=true&locale=en" alt="04shrihari" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=04shrihari&" alt="04shrihari" />
 </p>
 
 ---
